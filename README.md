@@ -1,9 +1,9 @@
 # 👁️ Microsoft-Azure-AI-102_optical_character_recognition 👥
 
-This repository uses Microsoft Azure AI services that analyses faces in images via the Face API and Cognitive Services.
+This repository uses Microsoft Azure AI Vision and Cognitive Services to perform Optical Character Recognition workflows.
 
 ## 🎯 Aim
-Deploy Azure Face API to perform facial recognition
+Deploy Azure AI Vision to perform Optical Character Recognition.
 
 ## 📁 Source Files
 There are two implementation options: `C#` or `Python3` included in this repository. Within the `Python` directory there are two main source codes for detecting and analysing facial data:
